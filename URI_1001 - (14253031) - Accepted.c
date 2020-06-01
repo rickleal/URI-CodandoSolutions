@@ -1,3 +1,4 @@
+//By Manrick Leal
 #include <stdio.h>
 int main()
 {
